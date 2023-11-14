@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T22:09:13.793Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="WLheemp2dh9jkIUPA-FY" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T22:39:40.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="gNTp4kUSAZvZkjZ03t5y" version="22.1.0" type="github">
   <diagram name="Página-1" id="4JfrF1HE6Jq-wGwuzRwm">
-    <mxGraphModel dx="1354" dy="1849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2480" dy="2415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -48,9 +48,6 @@
         </mxCell>
         <mxCell id="mdLfv2M_yiT91ypA67z6-13" value="Revisa" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=2;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="680" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="61zQgJ0jRJF8R8EJMROn-1" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Courier New&quot;&gt;Profesores&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="1120" y="30" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
