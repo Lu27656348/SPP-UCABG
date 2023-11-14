@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T22:39:40.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="gNTp4kUSAZvZkjZ03t5y" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T23:14:19.430Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="MDXfJ0JV2SFO5I9j_-xI" version="22.1.0" type="github">
   <diagram name="Página-1" id="4JfrF1HE6Jq-wGwuzRwm">
-    <mxGraphModel dx="2480" dy="2415" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1240" dy="1799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,7 +38,7 @@
           <mxGeometry x="360" y="-30" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mdLfv2M_yiT91ypA67z6-12" value="El profesor, con el rol de Coordinador de Prácticas Profesionales o revisor se encarga de revisar una Propuesta de Trabajo de Grado " style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.stickyNote2;fontColor=#666666;mainText=;fontSize=12;whiteSpace=wrap;fillColor=#ffffcc;strokeColor=#F62E00;" parent="1" vertex="1">
-          <mxGeometry x="890" y="-250" width="240" height="180" as="geometry" />
+          <mxGeometry x="930" y="-250" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="mdLfv2M_yiT91ypA67z6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="mdLfv2M_yiT91ypA67z6-13" target="Zcao9jJF8RZF7LauHXBp-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
