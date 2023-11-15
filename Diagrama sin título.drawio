@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T01:20:55.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="-nTRM1hsAlnmV50uM_of" version="22.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-11-15T01:52:07.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="OGtdNI6qhy5SEXTZcNN6" version="22.1.1" type="github" pages="3">
   <diagram name="DER - Trabajo de Grado" id="4JfrF1HE6Jq-wGwuzRwm">
-    <mxGraphModel dx="2311" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3796" dy="2638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,10 +357,37 @@
     </mxGraphModel>
   </diagram>
   <diagram id="xAfRko_WKx26Yq2WrgNa" name="DER - Pasantía">
-    <mxGraphModel dx="1039" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1222" dy="1774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="pCFozrYT4RV0xbnvqeb8-2" target="pCFozrYT4RV0xbnvqeb8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-2" value="&lt;font face=&quot;Courier New&quot;&gt;Pasantía&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-3" value="Realiza" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=2;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-30" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-4" value="0,N" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lucida Console;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-120" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="pCFozrYT4RV0xbnvqeb8-5" target="pCFozrYT4RV0xbnvqeb8-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-5" value="&lt;font face=&quot;Courier New&quot;&gt;Estudiantes&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-6" value="&lt;font face=&quot;Courier New&quot;&gt;Externos&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-7" value="&lt;div&gt;&lt;font face=&quot;Courier New&quot;&gt;Profesores&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" y="-120" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pCFozrYT4RV0xbnvqeb8-8" value="Planillas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="120" width="160" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
