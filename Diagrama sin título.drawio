@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-15T01:19:36.036Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="r_9vw_tVIJYZDisKKnJH" version="22.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-15T01:20:44.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="TbZqSNEqlbrdu-pMliIt" version="22.1.1" type="github" pages="2">
   <diagram name="DER - Trabajo de Grado" id="4JfrF1HE6Jq-wGwuzRwm">
     <mxGraphModel dx="2311" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -353,6 +353,14 @@
         <mxCell id="9cj2YAWEWs8uhfUZOykk-104" value="&lt;font face=&quot;Courier New&quot;&gt;Criterios&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1680" y="330" width="160" height="80" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xAfRko_WKx26Yq2WrgNa" name="DER - Pasantía">
+    <mxGraphModel dx="1039" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
