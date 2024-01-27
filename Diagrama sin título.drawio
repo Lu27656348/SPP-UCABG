@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-27T02:35:49.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="rjVOmwCwJXqsJladCR7r" version="22.1.21" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-01-27T02:36:03.166Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="lcOearX2HcCLOSJZvkwn" version="22.1.21" type="github" pages="6">
   <diagram name="DER - Trabajo de Grado - Extendido" id="4JfrF1HE6Jq-wGwuzRwm">
     <mxGraphModel dx="4983" dy="3225" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1963,9 +1963,6 @@
         </mxCell>
         <mxCell id="Nl7jyZ5ykIMdlgOwk8xA-274" value="CoordinadorPracticasProfesionales" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-520" y="960" width="200" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Nl7jyZ5ykIMdlgOwk8xA-277" value="1:N" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Nl7jyZ5ykIMdlgOwk8xA-278" value="0:1" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-180" y="930" width="60" height="30" as="geometry" />
