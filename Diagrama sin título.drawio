@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-31T14:08:13.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="bp5uu9IDZLDeSm4AOjgn" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-01-31T14:08:25.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="1fD3ZLsu8xMKerys6x1i" version="23.0.2" type="github" pages="4">
   <diagram id="ebPWiRa5-0_LZQv7uWu7" name="DER - Trabajo de Grado V2">
     <mxGraphModel dx="4154" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3454,18 +3454,6 @@
         <mxCell id="ywt-qpxDd8UZSYUCC5Io-120" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-3840.62" y="-1480" width="33.75" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ywt-qpxDd8UZSYUCC5Io-126" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-2960" y="-1720" as="sourcePoint" />
-            <mxPoint x="-2610" y="-1720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ywt-qpxDd8UZSYUCC5Io-128" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-3990" y="-1720.43" as="sourcePoint" />
-            <mxPoint x="-3640" y="-1720.43" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ywt-qpxDd8UZSYUCC5Io-132" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-2361.67" y="-2000" as="sourcePoint" />
@@ -3537,18 +3525,6 @@
         </mxCell>
         <mxCell id="ywt-qpxDd8UZSYUCC5Io-193" value="CriteriosJuradoTrabajoInstrumental" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fillColor=#d5e8d4;strokeColor=#82b366;direction=west;" vertex="1" parent="1">
           <mxGeometry x="-6215.75" y="-2480" width="205" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ywt-qpxDd8UZSYUCC5Io-194" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-5926.25" y="-1720" as="sourcePoint" />
-            <mxPoint x="-5576.25" y="-1720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ywt-qpxDd8UZSYUCC5Io-195" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-6955" y="-1720.43" as="sourcePoint" />
-            <mxPoint x="-6605" y="-1720.43" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="ywt-qpxDd8UZSYUCC5Io-196" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
