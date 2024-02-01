@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T15:30:18.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="gFU2ngV10-XWi55X7ihX" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-01T15:30:36.288Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Rt-rTN8tailJmK0NdkUl" version="23.1.1" type="github" pages="5">
   <diagram id="ebPWiRa5-0_LZQv7uWu7" name="DER - Trabajo de Grado V2">
     <mxGraphModel dx="3915" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5627,7 +5627,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="bOSHtjoCW053Y04CnA-W" name="Casos de Uso - Pasantía">
+  <diagram id="bOSHtjoCW053Y04CnA-W" name="Casos de Uso - Sistema de Prácticas Profesionales">
     <mxGraphModel dx="2390" dy="2392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
