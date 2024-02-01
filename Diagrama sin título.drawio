@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T15:25:44.408Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="X6UcRTknnO4LNiIq26ki" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-01T15:30:18.657Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="gFU2ngV10-XWi55X7ihX" version="23.1.1" type="github" pages="5">
   <diagram id="ebPWiRa5-0_LZQv7uWu7" name="DER - Trabajo de Grado V2">
     <mxGraphModel dx="3915" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5633,7 +5633,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="7Rj3GGx9lXT_4Tnln4kd-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="460" y="80" width="960" height="1140" as="geometry" />
+          <mxGeometry x="460" y="80" width="960" height="1470" as="geometry" />
         </mxCell>
         <mxCell id="7Rj3GGx9lXT_4Tnln4kd-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="7Rj3GGx9lXT_4Tnln4kd-1" target="7Rj3GGx9lXT_4Tnln4kd-9">
           <mxGeometry relative="1" as="geometry" />
