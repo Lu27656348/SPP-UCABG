@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-03T12:16:30.652Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="jPGOO_h3e-CthSICJZwX" version="23.1.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-02-03T12:36:17.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="M80Y_kdkUl3Z33CuAfBC" version="23.1.1" type="github" pages="5">
   <diagram id="ebPWiRa5-0_LZQv7uWu7" name="DER - Trabajo de Grado V2">
     <mxGraphModel dx="3520" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5628,7 +5628,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="bOSHtjoCW053Y04CnA-W" name="Casos de Uso - Sistema de Prácticas Profesionales">
-    <mxGraphModel dx="1484" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2078" dy="2197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6057,13 +6057,10 @@
           <mxGeometry x="2090" y="3460" width="1270" height="1500" as="geometry" />
         </mxCell>
         <mxCell id="MxQ6T7pbcanKYtmG2bL--155" value="CU-006: Gestionar Pasantías" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="2337.5" y="3400" width="465" height="30" as="geometry" />
+          <mxGeometry x="2542.5" y="3400" width="465" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MxQ6T7pbcanKYtmG2bL--156" value="&lt;b&gt;Coordinador de Prácticas Profesionales&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="1940" y="3860" width="40" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="MxQ6T7pbcanKYtmG2bL--173" value="&lt;b&gt;Sistema&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3470" y="3920" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MxQ6T7pbcanKYtmG2bL--181" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;CU-006: Gestionar pasantías&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2150" y="3835" width="230" height="130" as="geometry" />
@@ -6126,10 +6123,26 @@
           <mxGeometry x="2730" y="3760" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MxQ6T7pbcanKYtmG2bL--187" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Designar Tutor Académico&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3078" y="3730" width="230" height="130" as="geometry" />
+          <mxGeometry x="3070" y="3740" width="230" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="MxQ6T7pbcanKYtmG2bL--188" value="Evaluar Propuestas de Pasantía en Consejo de Escuela" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2580" y="4130" width="230" height="130" as="geometry" />
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--221" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxQ6T7pbcanKYtmG2bL--188" target="MxQ6T7pbcanKYtmG2bL--216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--222" value="Includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MxQ6T7pbcanKYtmG2bL--221">
+          <mxGeometry x="-0.1085" y="6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MxQ6T7pbcanKYtmG2bL--188" target="MxQ6T7pbcanKYtmG2bL--181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--234" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MxQ6T7pbcanKYtmG2bL--233">
+          <mxGeometry x="-0.1934" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--188" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gestionar Evaluación Tutores&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2520" y="4091.5" width="230" height="130" as="geometry" />
         </mxCell>
         <mxCell id="MxQ6T7pbcanKYtmG2bL--193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.806;entryY=0.889;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxQ6T7pbcanKYtmG2bL--185" target="MxQ6T7pbcanKYtmG2bL--184">
           <mxGeometry relative="1" as="geometry" />
@@ -6180,6 +6193,74 @@
         </mxCell>
         <mxCell id="MxQ6T7pbcanKYtmG2bL--211" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MxQ6T7pbcanKYtmG2bL--210">
           <mxGeometry x="-0.4437" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--235" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.678;entryY=0.969;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxQ6T7pbcanKYtmG2bL--214" target="MxQ6T7pbcanKYtmG2bL--181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--236" value="Extends" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MxQ6T7pbcanKYtmG2bL--235">
+          <mxGeometry x="-0.6494" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--214" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Gestionar Culminación de Pasantía&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2400" y="4320" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--215" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cargar Evaluación de Tutores&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2812.5" y="3930" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--216" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cargar Planilla de Evaluación de Tutor Académico&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2920" y="4092" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--217" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cargar Planilla de Evaluación de Tutor Empresarial&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2770" y="4240" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--219" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.01;entryY=0.648;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxQ6T7pbcanKYtmG2bL--188" target="MxQ6T7pbcanKYtmG2bL--215">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2730" y="4004" />
+              <mxPoint x="2842" y="4004" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--220" value="Includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MxQ6T7pbcanKYtmG2bL--219">
+          <mxGeometry x="0.1522" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--223" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.113;entryY=0.215;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxQ6T7pbcanKYtmG2bL--188" target="MxQ6T7pbcanKYtmG2bL--217">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2635" y="4240" />
+              <mxPoint x="2796" y="4240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--224" value="Includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MxQ6T7pbcanKYtmG2bL--223">
+          <mxGeometry x="-0.0166" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--225" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Cargar Informe de Pasantía&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2711" y="4420" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--226" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Culminar Pasantía &lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2440" y="4570" width="230" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--229" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.039;entryY=0.308;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxQ6T7pbcanKYtmG2bL--214" target="MxQ6T7pbcanKYtmG2bL--225">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--230" value="Includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MxQ6T7pbcanKYtmG2bL--229">
+          <mxGeometry x="0.2063" y="7" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.361;entryY=0.082;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MxQ6T7pbcanKYtmG2bL--214" target="MxQ6T7pbcanKYtmG2bL--226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MxQ6T7pbcanKYtmG2bL--232" value="Includes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="MxQ6T7pbcanKYtmG2bL--231">
+          <mxGeometry x="0.2308" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
